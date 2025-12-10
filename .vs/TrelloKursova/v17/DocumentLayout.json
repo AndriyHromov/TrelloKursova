@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formaddproject.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formaddproject.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formaddproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formaddproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formaddtask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formaddtask.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formaddtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|c:\\users\\andriygromov\\source\\repos\\gromov_lab5\\trellokursova\\formaddproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A571DB37-7737-4007-BFC3-24E0684BA571}|TrelloKursova.csproj|solutionrelative:formaddproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormAddProject.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddProject.cs",
+              "RelativeDocumentMoniker": "FormAddProject.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddProject.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormAddProject.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:52:56.213Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormAddTask.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddTask.Designer.cs",
+              "RelativeDocumentMoniker": "FormAddTask.Designer.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddTask.Designer.cs",
+              "RelativeToolTip": "FormAddTask.Designer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T21:50:27.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:21:25.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormAddTask.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddTask.cs",
+              "RelativeDocumentMoniker": "FormAddTask.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddTask.cs",
+              "RelativeToolTip": "FormAddTask.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:20:56.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormAddTask.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddTask.cs",
+              "RelativeDocumentMoniker": "FormAddTask.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddTask.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormAddTask.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:11:53.486Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormBoard.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormBoard.cs",
+              "RelativeDocumentMoniker": "FormBoard.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormBoard.cs",
+              "RelativeToolTip": "FormBoard.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswKsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T20:07:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormBoard.cs",
+              "RelativeDocumentMoniker": "FormBoard.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FormBoard.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:52:24.292Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAddProject.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddProject.cs",
+              "RelativeDocumentMoniker": "FormAddProject.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddProject.cs",
+              "RelativeToolTip": "FormAddProject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:43.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormBoard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormBoard.Designer.cs",
+              "RelativeDocumentMoniker": "FormBoard.Designer.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormBoard.Designer.cs",
+              "RelativeToolTip": "FormBoard.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:43.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAowG8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:43.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormAddProject.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddProject.Designer.cs",
+              "RelativeDocumentMoniker": "FormAddProject.Designer.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\FormAddProject.Designer.cs",
+              "RelativeToolTip": "FormAddProject.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:43.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:42.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Project.cs",
+              "RelativeDocumentMoniker": "Project.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Project.cs",
+              "RelativeToolTip": "Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:42.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskItem.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\TaskItem.cs",
+              "RelativeToolTip": "TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:42.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\DataStorage.cs",
+              "RelativeDocumentMoniker": "DataStorage.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\DataStorage.cs",
+              "RelativeToolTip": "DataStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T19:51:41.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\AndriyGromov\\source\\repos\\Gromov_lab5\\TrelloKursova\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T18:35:45.607Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.csproj.AssemblyReference.cache
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.Form1.resources
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.FormAddProject.resources
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.FormAddTask.resources
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.FormBoard.resources
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.Properties.Resources.resources
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.csproj.GenerateResource.cache
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.csproj.CoreCompileInputs.cache
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\bin\Debug\TrelloKursova.exe.config
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\bin\Debug\TrelloKursova.exe
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\bin\Debug\TrelloKursova.pdb
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKu.C18D9E5E.Up2Date
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.exe
+C:\Users\AndriyGromov\source\repos\Gromov_lab5\TrelloKursova\obj\Debug\TrelloKursova.pdb
