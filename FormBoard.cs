@@ -46,7 +46,7 @@ namespace TrelloKursova
         {
             var panel = new Panel
             {
-                Width = 280,
+                Width = 190,
                 Height = 110,
                 BorderStyle = BorderStyle.FixedSingle,
                 Margin = new Padding(6)
@@ -75,7 +75,7 @@ namespace TrelloKursova
             {
                 Text = "Видалити",
                 Size = new Size(72, 28),
-                Location = new Point(200, 66),
+                Location = new Point(120, 85),
                 BackColor = Color.LightCoral,
                 Tag = new Tuple<TaskItem, string>(task, columnKey)
             };
